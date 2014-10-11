@@ -32,7 +32,9 @@ shinyUI(pageWithSidebar(
 </ul>
 <br>
 <p><strong>Now I want to see  graphically the log-data I got along these years</strong>.</p>
-
+<br>
+<a href='http://rpubs.com/juliobm/freespace'>Slidify on Rpubs</a>
+<br>
 
                     <br>Every time you change the server, only the disk that server owns are showed.
                     <br>Most of business servers, the free space on them is decresing by the only use of software updates |-(
